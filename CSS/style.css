@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+background-image: url("../Media/Images/vortex-275446_1920.jpg");
+background-position: center;
+background-repeat: no-repeat;
+text-align: center; 
+
+}
+
+
+.test{
+    font-family: 'Comic Neue', cursive;
+color: rgb(255, 0, 106);
+text-decoration: underline;
+
+
+
+
+}
+
+
+.center {
+    font-family: 'Comic Neue', cursive;
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    transform: translate(450%, -70%);
+    padding: 10px;
+    color: white
+    
+  }
+
+  .linkone {
+    font-family: 'Comic Neue', cursive;
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    transform: translate(420%, 550%);
+    padding: 10px;
+    color: orangered
+  }
+
+  .linktwo {
+    font-family: 'Comic Neue', cursive;
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    transform: translate(200%, 200%);
+    padding: 10px;
+    color: aqua
+  }
+
+
+  .linkthree {
+    font-family: 'Comic Neue', cursive;
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    transform: translate(700%, 200%);
+    padding: 10px;
+    color: yellow
+  }
+
+
+
+
